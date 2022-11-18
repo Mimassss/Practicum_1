@@ -1,3 +1,3 @@
-for i in range(1: 10):
-i *= i
-print(i)
+n = (1)
+for i in range(n):
+
